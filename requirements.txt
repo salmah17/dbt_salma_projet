@@ -1,0 +1,7 @@
+dbt-core
+dbt-mysql
+pandas
+sqlalchemy
+sqlalchemy-utils
+pymysql
+cryptography
