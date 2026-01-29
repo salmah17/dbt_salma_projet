@@ -16,5 +16,6 @@ __pycache__/
 *.ipynb_checkpoints/
 
 # Configuration locale de DBT (ne jamais versionner vos mots de passe)
-~/.dbt/
+.dbt/
+
 
